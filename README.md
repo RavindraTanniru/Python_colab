@@ -1,4 +1,4 @@
-# Python_colab
+# PYTHON
 Python coding practise and  Execution.... using google colab 
 
 # Python – Theory + Examples 
