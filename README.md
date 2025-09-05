@@ -1,7 +1,7 @@
 # Python_colab
 Python coding practise and  Execution.... using google colab 
 
-# Python – Theory + Examples (Copy‑ready README)
+# Python – Theory + Examples 
 
 > Concise theory with runnable examples. Each section ends with **Further reading** links to GeeksforGeeks.
 
